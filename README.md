@@ -1,2 +1,3 @@
-# myntra
-this is for the myntra hackathon
+# Myntra
+This is for the myntra hackathon
+Author -> Nayesha 
